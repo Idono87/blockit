@@ -9,6 +9,6 @@ const config = {
   useStrict: true,
   extensions: ['.ts'],
   reporter: 'min',
-  spec: 'src/__tests__/**/*.test.ts',
+  spec: 'dist/__tests__/**/*.test.js',
 };
 module.exports = config;
