@@ -11,7 +11,7 @@
     "outDir": "./dist",
     "pretty": true,
     "resolveJsonModule": true,
-    "rootDir": "./",
+    "rootDir": "./src",
     "skipLibCheck": true,
     "sourceMap": true,
     "stripInternal": true,
