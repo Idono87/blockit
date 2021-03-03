@@ -1,0 +1,25 @@
+{
+  "name": "blockit",
+  "version": "0.1.0",
+  "description": "Commandline ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idono87/blockit.git"
+  },
+  "keywords": [
+    "UI",
+    "CLI",
+    "component",
+    "render"
+  ],
+  "author": "Sorin Sandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idono87/blockit/issues"
+  },
+  "homepage": "https://github.com/Idono87/blockit#readme"
+}

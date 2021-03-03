@@ -1,0 +1,12 @@
+# ignore everything
+*
+*/
+
+# Whitelist src
+!src/
+!src/**
+
+# whitelist
+!.gitignore
+!package.json
+!package-lock.json
